@@ -71,3 +71,8 @@ I added dataflow activity in the existing pipeline to push cleaned data from Dat
 
 ![image](https://github.com/user-attachments/assets/0642be36-8bd3-4002-8e09-eee661a9f3df)
 
+and you can see table generated in Warehouse
+
+![image](https://github.com/user-attachments/assets/121f8ade-e0bf-49c5-af2d-c0c987cc2a8f)
+
+
