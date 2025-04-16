@@ -1,4 +1,7 @@
 # FABRIC-API-Datapipeline
+
+![image](https://github.com/user-attachments/assets/db3b9c7f-8980-4e2e-863c-5e0772758a74)
+
 Data pipeline to pull data from API and load in Fabric Lake House
 
 In Fabric, created  data pipe line with copy data activity 
