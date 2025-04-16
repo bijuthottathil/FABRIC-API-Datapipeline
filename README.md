@@ -42,7 +42,29 @@ You can see new table created in lake house
 
 I opened it in notebook to see data
 
+Next step, trying to remove some unwnated column using Dataflow Gen2
 
+![image](https://github.com/user-attachments/assets/51492ac3-06a4-4f83-a1f7-35a688851470)
+
+Published and setting a destination . 
+
+
+Here I am publishing this dataflow output to a data warehouse existing in my Fabric workspace
+
+![image](https://github.com/user-attachments/assets/4d58b5f3-7d0a-4e39-a398-2aa4f1bf11c3)
+
+
+Here we have options to change datatypes 
+
+![image](https://github.com/user-attachments/assets/e0599bb9-e496-4b4b-840d-cf5eebc686fd)
+
+
+Now I am in warehouse. you can see new table related to Weatherdata is generated
+
+![image](https://github.com/user-attachments/assets/cedf04a3-0ae2-4c85-8b21-4edc15726dcd)
+
+
+![image](https://github.com/user-attachments/assets/0383705f-8143-4608-a2b6-a2601c1b77d2)
 
 
 
