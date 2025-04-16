@@ -67,5 +67,7 @@ Now I am in warehouse. you can see new table related to Weatherdata is generated
 ![image](https://github.com/user-attachments/assets/0383705f-8143-4608-a2b6-a2601c1b77d2)
 
 
+I added dataflow activity in the existing pipeline to push cleaned data from Dataflow to Data ware house
 
+![image](https://github.com/user-attachments/assets/0642be36-8bd3-4002-8e09-eee661a9f3df)
 
